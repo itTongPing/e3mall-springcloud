@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="e3mall-common">
+    <output-path>$PROJECT_DIR$/out/artifacts/e3mall_common</output-path>
+    <root id="root" />
+  </artifact>
+</component>

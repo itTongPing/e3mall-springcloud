@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="e3mall-parent">
+    <output-path>$PROJECT_DIR$/out/artifacts/e3mall_parent</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="e3mall-manager-web/web/Web" />
+    </root>
+  </artifact>
+</component>
